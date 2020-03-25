@@ -79,7 +79,7 @@ struct AddressBook {
 # 编译
 
 ```
-	go get -u -v github.com/davyxu/protoplus
+	go get -u -v github.com/bobwong89757/protoplus
 ```
 
 
@@ -146,4 +146,4 @@ struct AddressBook {
 
 知乎: [http://www.zhihu.com/people/sunicdavy](http://www.zhihu.com/people/sunicdavy)
 
-提交bug及特性: https://github.com/davyxu/protoplus/issues
+提交bug及特性: https://github.com/bobwong89757/protoplus/issues

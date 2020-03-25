@@ -1,8 +1,8 @@
 package golang
 
 import (
-	"github.com/davyxu/protoplus/codegen"
-	"github.com/davyxu/protoplus/model"
+	"github.com/bobwong89757/protoplus/codegen"
+	"github.com/bobwong89757/protoplus/model"
 	"text/template"
 )
 

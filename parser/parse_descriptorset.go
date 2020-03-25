@@ -3,8 +3,8 @@ package parser
 import (
 	"errors"
 	"fmt"
-	"github.com/davyxu/golexer"
-	"github.com/davyxu/protoplus/model"
+	"github.com/bobwong89757/golexer"
+	"github.com/bobwong89757/protoplus/model"
 	"io"
 	"io/ioutil"
 )

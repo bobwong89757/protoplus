@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/davyxu/golexer"
-	"github.com/davyxu/protoplus/model"
+	"github.com/bobwong89757/golexer"
+	"github.com/bobwong89757/protoplus/model"
 	"strings"
 )
 
