@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/davyxu/protoplus/codegen"
-	"github.com/davyxu/protoplus/model"
+	"protoplus/codegen"
+	"protoplus/model"
 	"io/ioutil"
 	"os"
 )

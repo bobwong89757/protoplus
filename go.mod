@@ -1,5 +1,5 @@
-module github.com/davyxu/protoplus
+module protoplus
 
-go 1.12
+go 1.13
 
-require github.com/davyxu/golexer v0.0.0-20180314091252-f048a86ae200
+require github.com/bobwong89757/golexer v0.1.0

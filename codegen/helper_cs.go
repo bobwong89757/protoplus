@@ -1,7 +1,7 @@
 package codegen
 
 import (
-	"github.com/davyxu/protoplus/model"
+	"protoplus/model"
 )
 
 func CSTypeName(fd *model.FieldDescriptor) string {

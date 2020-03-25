@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/davyxu/protoplus/proto"
+	"protoplus/proto"
 	"math"
 	"reflect"
 	"testing"

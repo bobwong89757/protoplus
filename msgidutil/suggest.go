@@ -2,7 +2,7 @@ package msgidutil
 
 import (
 	"fmt"
-	"github.com/davyxu/protoplus/model"
+	"protoplus/model"
 )
 
 const sugguestMsgIDInterval = 100

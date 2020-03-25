@@ -1,7 +1,7 @@
 package gen
 
 import (
-	"github.com/davyxu/protoplus/model"
+	"protoplus/model"
 )
 
 type Context struct {

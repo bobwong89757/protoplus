@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/davyxu/protoplus/model"
+import "protoplus/model"
 
 func parseTagSet(ctx *Context) (ts model.TagSet) {
 

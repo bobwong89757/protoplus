@@ -2,8 +2,8 @@ package csharp
 
 import (
 	"fmt"
-	"github.com/davyxu/protoplus/codegen"
-	"github.com/davyxu/protoplus/model"
+	"protoplus/codegen"
+	"protoplus/model"
 	"strings"
 	"text/template"
 )

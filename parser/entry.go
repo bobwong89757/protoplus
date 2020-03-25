@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/davyxu/protoplus/model"
+	"protoplus/model"
 	"os"
 	"strings"
 )

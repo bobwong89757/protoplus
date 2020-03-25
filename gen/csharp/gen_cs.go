@@ -2,9 +2,9 @@ package csharp
 
 import (
 	"fmt"
-	"github.com/davyxu/protoplus/codegen"
-	"github.com/davyxu/protoplus/gen"
-	_ "github.com/davyxu/protoplus/msgidutil"
+	"protoplus/codegen"
+	"protoplus/gen"
+	_ "protoplus/msgidutil"
 )
 
 func GenCSharp(ctx *gen.Context) error {
