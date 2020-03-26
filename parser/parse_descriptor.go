@@ -2,7 +2,7 @@ package parser
 
 import (
 	"errors"
-	"protoplus/model"
+	"github.com/bobwong89757/protoplus/model"
 )
 
 func parseObject(ctx *Context) {

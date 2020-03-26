@@ -1,7 +1,7 @@
 package gogopb
 
 import (
-	"protoplus/model"
+	"github.com/bobwong89757/protoplus/model"
 	"text/template"
 )
 

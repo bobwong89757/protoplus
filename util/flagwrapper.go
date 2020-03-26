@@ -2,8 +2,8 @@ package util
 
 import (
 	"flag"
-	"protoplus/model"
-	"protoplus/parser"
+	"github.com/bobwong89757/protoplus/model"
+	"github.com/bobwong89757/protoplus/parser"
 )
 
 func ParseFileList(dset *model.DescriptorSet) (retErr error) {

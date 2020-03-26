@@ -3,7 +3,7 @@ package parser
 import (
 	"encoding/json"
 	"github.com/bobwong89757/golexer"
-	"protoplus/model"
+	"github.com/bobwong89757/protoplus/model"
 	"strings"
 	"testing"
 )

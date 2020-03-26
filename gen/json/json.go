@@ -3,8 +3,8 @@ package json
 import (
 	"encoding/json"
 	"fmt"
-	"protoplus/gen"
-	"protoplus/msgidutil"
+	"github.com/bobwong89757/protoplus/gen"
+	"github.com/bobwong89757/protoplus/msgidutil"
 	"io/ioutil"
 	"strconv"
 )

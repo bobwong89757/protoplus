@@ -1,4 +1,4 @@
-module protoplus
+module github.com/bobwong89757/protoplus
 
 go 1.13
 
